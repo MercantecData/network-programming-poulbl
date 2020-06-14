@@ -1,0 +1,11 @@
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\pl\source\repos\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+C:\Users\pl\source\repos\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csprojAssemblyReference.cache
+C:\Users\pl\source\repos\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+C:\Users\pl\source\repos\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+C:\Users\pl\source\repos\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+C:\Users\pl\source\repos\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb

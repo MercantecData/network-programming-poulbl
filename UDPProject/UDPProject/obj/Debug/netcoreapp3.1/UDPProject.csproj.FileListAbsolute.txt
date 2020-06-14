@@ -1,0 +1,11 @@
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.exe
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.deps.json
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.runtimeconfig.json
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.runtimeconfig.dev.json
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.dll
+C:\Users\pl\source\repos\UDPProject\UDPProject\bin\Debug\netcoreapp3.1\UDPProject.pdb
+C:\Users\pl\source\repos\UDPProject\UDPProject\obj\Debug\netcoreapp3.1\UDPProject.csprojAssemblyReference.cache
+C:\Users\pl\source\repos\UDPProject\UDPProject\obj\Debug\netcoreapp3.1\UDPProject.AssemblyInfoInputs.cache
+C:\Users\pl\source\repos\UDPProject\UDPProject\obj\Debug\netcoreapp3.1\UDPProject.AssemblyInfo.cs
+C:\Users\pl\source\repos\UDPProject\UDPProject\obj\Debug\netcoreapp3.1\UDPProject.dll
+C:\Users\pl\source\repos\UDPProject\UDPProject\obj\Debug\netcoreapp3.1\UDPProject.pdb

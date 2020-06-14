@@ -1,0 +1,11 @@
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\obj\Debug\netcoreapp3.1\AsyncAwaitOpgClient.csprojAssemblyReference.cache
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\obj\Debug\netcoreapp3.1\AsyncAwaitOpgClient.AssemblyInfoInputs.cache
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\obj\Debug\netcoreapp3.1\AsyncAwaitOpgClient.AssemblyInfo.cs
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.exe
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.deps.json
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.runtimeconfig.json
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.runtimeconfig.dev.json
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.dll
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\bin\Debug\netcoreapp3.1\AsyncAwaitOpgClient.pdb
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\obj\Debug\netcoreapp3.1\AsyncAwaitOpgClient.dll
+C:\Users\pl\source\repos\AsyncAwaitOpgServer\AsyncAwaitOpgServer\obj\Debug\netcoreapp3.1\AsyncAwaitOpgClient.pdb

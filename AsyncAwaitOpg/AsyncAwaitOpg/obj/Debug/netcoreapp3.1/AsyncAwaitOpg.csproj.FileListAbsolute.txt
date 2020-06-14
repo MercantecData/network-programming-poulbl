@@ -1,0 +1,11 @@
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\obj\Debug\netcoreapp3.1\AsyncAwaitOpg.csprojAssemblyReference.cache
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\obj\Debug\netcoreapp3.1\AsyncAwaitOpg.AssemblyInfoInputs.cache
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\obj\Debug\netcoreapp3.1\AsyncAwaitOpg.AssemblyInfo.cs
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.exe
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.deps.json
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.runtimeconfig.json
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.runtimeconfig.dev.json
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.dll
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\bin\Debug\netcoreapp3.1\AsyncAwaitOpg.pdb
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\obj\Debug\netcoreapp3.1\AsyncAwaitOpg.dll
+C:\Users\pl\source\repos\AsyncAwaitOpg\AsyncAwaitOpg\obj\Debug\netcoreapp3.1\AsyncAwaitOpg.pdb
